@@ -1,14 +1,14 @@
-﻿Neighborhood,Zipcdoe_Count,4year_Mean
-Bushwick and Williamsburg,3,91
-Central Brooklyn,3,108
-Central Harlem,1,130
-Chelsea and Clinton,3,223
-East Harlem,1,131
-Flatbush,2,80
-Gramercy Park and Murray Hill,1,222
-Greenpoint,2,140
-Greenwich Village and Soho,2,241
-Inwood and Washington Heights,1,99
-Lower East Side,3,188
-Northwest Brooklyn,4,149
-Upper West Side,3,181
+﻿Neighborhood,Zipcdoe_Count,4year_Mean,Income_Mean
+Flatbush,2,80,"$50,211 "
+Bushwick and Williamsburg,3,91,"$44,187 "
+Inwood and Washington Heights,1,99,"$44,040 "
+Central Brooklyn,3,108,"$57,016 "
+Central Harlem,1,130,"$45,536 "
+East Harlem,1,131,"$34,015 "
+Greenpoint,2,140,"$72,200 "
+Northwest Brooklyn,4,149,"$96,000 "
+Upper West Side,3,181,"$110,803 "
+Lower East Side,3,188,"$66,804 "
+Gramercy Park and Murray Hill,1,222,"$109,250 "
+Chelsea and Clinton,3,223,"$105,326 "
+Greenwich Village and Soho,2,241,"$116,267 "
