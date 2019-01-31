@@ -16,7 +16,7 @@
 * Motivation to understand what external factors might affect AirBnB nightly prices
 
 ## With respect to four factors:
-* Temperature
+* Weather
 * Amount of Crime
 * Household Income
 * Demographics (Age and Race)
