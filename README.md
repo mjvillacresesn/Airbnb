@@ -9,7 +9,7 @@
 * Francis Imperial
 
 ## Important to note: 
-* Our groups completed work can be found here in the Final Code folder!
+### Our groups completed work can be found above in the Final_Code folder!
 
 ## Primary Question:
 * What affects AirBnB prices?
