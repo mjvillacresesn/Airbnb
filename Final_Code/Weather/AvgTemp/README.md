@@ -1,6 +1,6 @@
 # Temperature Analysis
 
-
+![AvgTemp_years.png](AvgTemp_graph/AvgTemp_years.png)
 
 ------
 #### Average Temperature in NYC per month from 2015-2018:
