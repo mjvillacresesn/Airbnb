@@ -1,5 +1,5 @@
 # Price Analysis
-
+![AvgPrice_years.png](AvgPrice_graph/Avgprice_years.png)
 
 ------
 #### Average Temperature in NYC per month from 2015-2018:
