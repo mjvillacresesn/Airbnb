@@ -11,3 +11,5 @@
 * Analysis - [Visualizations](https://github.com/mjvillacresesn/AirbnbProject/blob/master/Final_Code/Weather/AvgPrice/README.md)
 
 ---
+
+* Home - [Project Outline ](https://github.com/mjvillacresesn/Airbnb)
